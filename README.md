@@ -27,7 +27,7 @@ If you prefer to run the application using Docker, follow these steps:
 
 1. **Clone the Repository:** 
 
-git clone https://github.com/yourusername/DroneZone.git
+git clone
 
 
 2. **Build Docker Images:**
