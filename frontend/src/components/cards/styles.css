@@ -1,0 +1,24 @@
+.bento-large {
+    width: 300px;
+    height: 200px;
+}
+
+.bento-medium {
+    width: 200px;
+    height: 150px;
+}
+
+.bento-small {
+    width: 150px;
+    height: 200px;
+}
+
+.bento-tall {
+    width: 150px;
+    height: 300px;
+}
+
+.bento-square {
+    width: 200px;
+    height: 200px;
+}
